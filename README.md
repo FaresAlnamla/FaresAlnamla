@@ -36,3 +36,18 @@ You can connect with me for collaborations, research, or discussions about AI an
 - **GitHub**: [Fares Al-Namla](https://github.com/FaresAlnamla) 
 - **kaggle**: [Fares Al-Namla](https://www.kaggle.com/faresalnamla) 
 - **Email**: aresalnam@gmail.com
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FaresAlnamla&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+### 📈 Top Languages  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaresAlnamla&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+### 🔥 Streak Stats  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaresAlnamla&theme=radical" alt="Streak Stats" />
+</p>
