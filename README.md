@@ -1,5 +1,5 @@
 
-https://raw.githubusercontent.com/FaresAlnamla/FaresAlnamla/main/assets/Untitled_design.mp4
+https://github.com/FaresAlnamla/FaresAlnamla/blob/main/assets/Untitled_design.mp4
 
 
 # **Fares Majed Alnamla**  
