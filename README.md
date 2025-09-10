@@ -1,6 +1,8 @@
+
 <p align="center">
   <img src="https://github.com/FaresAlnamla/FaresAlnamla/blob/main/assets/Navy%20Geometric%20Technology%20LinkedIn%20Banner.png" alt="header image" />
 </p>
+
 
 # **Fares Majed Al-Namlah**  
 ### **Data Science & AI Student**  
