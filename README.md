@@ -1,5 +1,8 @@
 
-![banner](https://github.com/FaresAlnamla/FaresAlnamla/blob/main/assets/Untitled%design.gif)
+<p align="center">
+  <img src="https://github.com/FaresAlnamla/FaresAlnamla/blob/main/assets/Untitled%20design.gif" alt="Demo GIF" width="600"/>
+</p>
+
 
 
 
