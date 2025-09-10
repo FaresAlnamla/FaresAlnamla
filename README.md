@@ -1,7 +1,5 @@
 
-<p align="center">
-  <img src="https://github.com/FaresAlnamla/FaresAlnamla/blob/main/assets/Untitled design.mp4" alt="header image" />
-</p>
+https://github.com/FaresAlnamla/FaresAlnamla/blob/main/assets/Untitled%20design.mp4
 
 
 # **Fares Majed Alnamla**  
