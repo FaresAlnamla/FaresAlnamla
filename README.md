@@ -8,7 +8,6 @@
 I am a dedicated **Data Science and Artificial Intelligence student** passionate about exploring the intersection of **machine learning**, **deep learning**, **natural language processing (NLP)**, and **computer vision**.  
 My work reflects both academic study and hands-on projects where I apply AI techniques to real-world problems such as **fake news detection, disaster classification, regression modeling, and time series forecasting**.  
 
-As a university student, I view these projects not as a final portfolio but as a **growing foundation**—continuously updated as I gain more knowledge, build new solutions, and expand into advanced research.  
 
 📍 **Location**: Gaza Strip, Palestine  
 🎓 **Education**: BSc in Data Science & Artificial Intelligence, University College of Applied Sciences  
