@@ -35,7 +35,7 @@ My work reflects both academic study and hands-on projects where I apply AI tech
 
 ### **📫 How to Reach Me**  
 You can connect with me for collaborations, research, or discussions about AI and data science:  
-- **LinkedIn**: [Fares Al-Namla](https://www.linkedin.com/in/faresalnamla/)  
-- **GitHub**: [Fares Al-Namla](https://github.com/FaresAlnamla) 
-- **kaggle**: [Fares Al-Namla](https://www.kaggle.com/faresalnamla) 
+- **LinkedIn**: [Fares Alnamla](https://www.linkedin.com/in/faresalnamla/)  
+- **GitHub**: [Fares Alnamla](https://github.com/FaresAlnamla) 
+- **kaggle**: [Fares Alnamla](https://www.kaggle.com/faresalnamla) 
 - **Email**: faresalnam@gmail.com
