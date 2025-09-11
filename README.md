@@ -38,4 +38,4 @@ You can connect with me for collaborations, research, or discussions about AI an
 - **LinkedIn**: [Fares Al-Namla](https://www.linkedin.com/in/faresalnamla/)  
 - **GitHub**: [Fares Al-Namla](https://github.com/FaresAlnamla) 
 - **kaggle**: [Fares Al-Namla](https://www.kaggle.com/faresalnamla) 
-- **Email**: aresalnam@gmail.com
+- **Email**: faresalnam@gmail.com
