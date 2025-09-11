@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/FaresAlnamla/FaresAlnamla/blob/main/assets/UntitledDesign.gif" alt="Demo GIF" width="900"/>
+  <img src="https://github.com/FaresAlnamla/FaresAlnamla/blob/main/assets/banner.gif" alt="Demo GIF" width="900"/>
 </p>
 
 
