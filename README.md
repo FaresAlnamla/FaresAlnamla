@@ -6,7 +6,7 @@
 
 
 
-# **Fares Majed Alnamla**  
+# **Fares Alnamla**  
 ### **Data Science & AI Student**  
 
 I am a dedicated **Data Science and Artificial Intelligence student** passionate about exploring the intersection of **machine learning**, **deep learning**, **natural language processing (NLP)**, and **computer vision**.  
