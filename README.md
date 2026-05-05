@@ -9,14 +9,15 @@
 
 ---
 
-## About Me
+## 👋 About Me
 
-I'm a **Data Science and Artificial Intelligence graduate** from the University College of Applied Sciences (UCAS), Palestine, with hands-on experience in **NLP, text classification, feature engineering, and machine learning model evaluation**.
+I'm a Data Science and Artificial Intelligence graduate from the University College of Applied Sciences (UCAS), Palestine.
 
-I build Python-based pipelines for preprocessing unstructured text, extracting features using TF-IDF and embeddings, and training classification and predictive models. My work spans end-to-end ML workflows — from raw data to evaluated, deployable models.
+I have hands-on experience in Natural Language Processing (NLP), text classification, feature engineering, and machine learning model evaluation. I build Python-based data science pipelines for preprocessing, feature extraction, model training, and evaluation.
 
-I'm actively seeking internship opportunities where I can apply **NLP and predictive modeling to healthcare, clinical text analysis, and real-world decision-support systems**.
+My work focuses on end-to-end machine learning workflows — from raw data collection and exploratory analysis to building evaluated, practical, and deployable models.
 
+I'm currently seeking internship opportunities where I can apply my skills in data analysis, machine learning, and NLP to solve real-world problems and support data-driven decision-making.
 ---
 
 ## Technical Focus
@@ -84,14 +85,17 @@ Developed a spam classifier using Python and TF-IDF for feature extraction. Trai
 
 ## Current Direction
 
-I'm focused on applying NLP and predictive modeling to **healthcare and clinical data** — including clinical note analysis, medical text classification, and decision-support systems. I'm actively looking for internships in **AI for healthcare / Medical Data Science** where I can contribute to real-world impact while continuing to grow technically.
+I'm focused on building practical skills across the full data science spectrum — from exploratory data analysis and feature engineering to machine learning modeling and NLP pipelines.
+
+I'm actively looking for internship opportunities in Data Science, Machine Learning, or Artificial Intelligence where I can work on real datasets and contribute to meaningful, impact-driven projects.
 
 I'm currently deepening my skills in:
-- Clinical NLP and medical text analysis
-- Working with structured and unstructured health data
-- Model interpretability and evaluation for high-stakes domains
-- Modern LLM fine-tuning and retrieval-augmented generation
 
+- Machine learning modeling and predictive analytics
+- Data analysis, visualization, and insight extraction
+- NLP techniques and text analysis pipelines
+- Model interpretability and evaluation for real-world applications
+- Modern LLM concepts and retrieval-augmented generation
 ---
 
 ## Education
