@@ -46,13 +46,39 @@ Developed a spam classifier using Python and TF-IDF for feature extraction. Trai
 
 ## Skills
 
-```
-Python · Pandas · NumPy · SQL · PostgreSQL
-Scikit-learn · XGBoost · Logistic Regression · Naive Bayes · Decision Trees
-NLP · TF-IDF · Embeddings · Semantic Search · RAG · HuggingFace (basic)
-Feature Engineering · Model Evaluation · AUC-ROC · F1-score
-FastAPI · Git/GitHub · Docker · CI/CD (basic)
-```
+**🔤 Natural Language Processing**
+
+![TF-IDF](https://img.shields.io/badge/TF--IDF-7C3AED?style=flat-square)
+![Text Classification](https://img.shields.io/badge/Text%20Classification-6D28D9?style=flat-square)
+![Embeddings](https://img.shields.io/badge/Embeddings-5B21B6?style=flat-square)
+![Semantic Search](https://img.shields.io/badge/Semantic%20Search-4C1D95?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**🤖 Machine Learning**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-137DC5?style=flat-square)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-0E7490?style=flat-square)
+![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-0F766E?style=flat-square)
+![AUC-ROC](https://img.shields.io/badge/AUC--ROC-115E59?style=flat-square)
+![Classification](https://img.shields.io/badge/Classification-0D9488?style=flat-square)
+
+**💻 Programming & Data**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+**⚙️ Engineering & Deployment**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-6B7280?style=flat-square)
 
 ---
 
