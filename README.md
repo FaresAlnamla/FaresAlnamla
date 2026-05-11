@@ -1,3 +1,7 @@
+<p align="center">
+  <video src="./assets/intro.mp4" width="100%" controls></video>
+</p>
+
 <h1 align="center">Hi, I'm Fares Alnamla 👋</h1>
 <h3 align="center">Data Scientist · NLP Engineer · Machine Learning</h3>
 <p align="center">
