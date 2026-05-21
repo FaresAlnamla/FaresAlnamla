@@ -14,14 +14,13 @@
 
 ## 👋 About Me
 
-I'm a Data Science and Artificial Intelligence graduate from the University College of Applied Sciences (UCAS), Palestine.
+AI Engineer and Machine Learning Specialist passionate about transforming data into intelligent solutions.
 
-I have hands-on experience in Natural Language Processing (NLP), text classification, feature engineering, and machine learning model evaluation. I build Python-based data science pipelines for preprocessing, feature extraction, model training, and evaluation.
+My background combines Data Science, Machine Learning, and Natural Language Processing (NLP), with hands-on experience in building predictive models, developing AI-powered applications, and designing end-to-end data-driven workflows.
 
-My work focuses on end-to-end machine learning workflows — from raw data collection and exploratory analysis to building evaluated, practical, and deployable models.
+I enjoy solving complex problems through analytical thinking, experimentation, and modern AI technologies, with a focus on creating practical solutions that deliver measurable value.
 
-I'm currently seeking internship opportunities where I can apply my skills in data analysis, machine learning, and NLP to solve real-world problems and support data-driven decision-making.
----
+Currently seeking opportunities to contribute to innovative AI projects and further specialize in Machine Learning and NLP.---
 
 ## Technical Focus
 
