@@ -2,7 +2,7 @@
   <img src="./assets/intro.gif" width="100%" alt="Intro video preview" />
 </p>
 <h1 align="center">Hi, I'm Fares Alnamla 👋</h1>
-<h3 align="center">Data Scientist · NLP Engineer · Machine Learning</h3>
+<h3 align="center">AI Engineer · Machine Learning Specialist · NLP</h3>
 <p align="center">
   <a href="mailto:faresalnam@gmail.com">📧 faresalnam@gmail.com</a> ·
   <a href="https://linkedin.com/in/faresalnamla">LinkedIn</a> ·
