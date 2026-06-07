@@ -5,7 +5,7 @@
 <h3 align="center">AI Engineer · Machine Learning Specialist · NLP</h3>
 <p align="center">
   <a href="mailto:faresalnam@gmail.com">📧 faresalnam@gmail.com</a> ·
-  <a href="https://linkedin.com/in/faresalnamla">LinkedIn</a> ·
+  <a href="https://linkedin.com/in/faresalnamla-ai-engineer-ml-nlp">LinkedIn</a> ·
   <a href="https://github.com/faresalnamla">GitHub</a> ·
   <a href="https://kaggle.com/faresalnamla">Kaggle</a>
 </p>
