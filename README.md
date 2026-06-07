@@ -38,7 +38,7 @@ Experienced with Machine Learning, NLP, FastAPI, SQL, Scikit-learn, XGBoost, and
 
 ## Featured Projects
 
-### Student Leak Radar - AI-Powered Student Risk Prediction Platform
+### 🎓 [Student Leak Radar - AI-Powered Student Risk Prediction Platform](https://github.com/FaresAlnamla/Student-Leak-Radar)
 
 Built an end-to-end machine learning system to identify at-risk students using academic and behavioral indicators.
 
@@ -47,14 +47,14 @@ Built an end-to-end machine learning system to identify at-risk students using a
 - Designed an interactive dashboard for risk analysis, model insights, and batch prediction workflows.
 - Implemented a FastAPI backend and modern web deployment architecture.
 
-### RecipaAI - Multi-Agent RAG Assistant
+### 🍽️ [RecipaAI - Multi-Agent RAG Assistant](https://github.com/FaresAlnamla/Recipa-RAG-Assistant)
 
 Designed and developed a multi-agent RAG-based assistant, handling system architecture, agent coordination, and retrieval workflows.
 
 - Implemented Python pipelines for data ingestion, vector indexing, and semantic search using modern LLM frameworks.
 - Optimized retrieval and NLP components to generate accurate, context-aware responses from unstructured recipe data.
 
-### Email Spam Detection System
+### 📧 [Email Spam Detection System](https://github.com/FaresAlnamla/Email-Spam-Detection-System)
 
 Built an email spam detection system using Python and TF-IDF for text feature extraction.
 
@@ -62,14 +62,14 @@ Built an email spam detection system using Python and TF-IDF for text feature ex
 - Improved model performance through preprocessing, feature tuning, and evaluation using accuracy and F1-score.
 - Converted email text into machine-learning-ready features for classification.
 
-### Heart Disease Prediction ML
+### ❤️ [Heart Disease Prediction ML](https://github.com/FaresAlnamla/heart-disease-prediction-ml)
 
 Built an end-to-end machine learning project to predict heart disease risk using structured clinical data.
 
 - Performed EDA, data cleaning, preprocessing, feature preparation, and classification modeling using Python and Scikit-learn.
 - Evaluated model performance using accuracy, precision, recall, F1-score, and ROC-AUC to compare and select the best-performing model.
 
-### Palestine Fake News Detector
+### 📰 [Palestine Fake News Detector](https://github.com/FaresAlnamla/Palestine-Fake-News-Detection)
 
 Built a fake news detection system for Palestinian-related news using Python and NLP techniques.
 
@@ -146,13 +146,19 @@ Sep 2018 - Jun 2021
 ## Certifications
 
 - AI Olympics Competition - Certificate of Participation  
-  Gaza Sky Geeks, 2026 | [View Certificate](https://drive.google.com/file/d/1dFSsTHE-eNHCFMnONXvm5hCxJ5__wKFQ/view)
+  Gaza Sky Geeks, May 2026 | [View Certificate](https://drive.google.com/file/d/1dFSsTHE-eNHCFMnONXvm5hCxJ5__wKFQ/view)
 
 - Deep Dive LLM Bootcamp Completion Certificate  
   Zakey.tech, Feb 2026 | [View Certificate](https://verified.sertifier.com/en/verify/10799055094846/?ref=email)
 
 - Freelance Skills Training  
   DigiWork, Mar 2026 | [View Certificate](https://drive.google.com/file/d/1cTmvPsq9_JGFAa701ZDJG2yLMpi8RKnj/view)
+
+- Python Fundamentals for Beginners  
+  Great Learning, Apr 2023
+
+- Introduction to Data Analytics  
+  Simplilearn, Apr 2022
 
 ---
 
