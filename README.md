@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./assets/intro.gif" width="100%" alt="Intro video preview" />
+  <img src="./assets/DailyPlayer.gif" width="100%" alt="Intro video preview" />
 </p>
+
 <h1 align="center">Hi, I'm Fares Alnamla</h1>
 <h3 align="center">Machine Learning & NLP Engineer</h3>
 
