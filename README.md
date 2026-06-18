@@ -1,185 +1,382 @@
 <p align="center">
-  <img src="./assets/DailyPlayer.gif" width="100%" alt="Intro video preview" />
+  <img src="./assets/github-banner.gif" width="100%" alt="Fares Alnamla - Data Scientist & AI Engineer" />
 </p>
 
-<h1 align="center">Hi, I'm Fares Alnamla</h1>
-<h3 align="center">Machine Learning & NLP Engineer</h3>
+<h1 align="center">Hi 👋, I'm Fares Alnamla</h1>
+
+<h3 align="center">
+Data Scientist • AI Engineer • Machine Learning Engineer
+</h3>
 
 <p align="center">
-  <a href="mailto:faresalnam@gmail.com">faresalnam@gmail.com</a> |
-  <a href="https://linkedin.com/in/faresalnamla-ai-engineer-ml-nlp">LinkedIn</a> |
-  <a href="https://github.com/faresalnamla">GitHub</a> |
+Machine Learning • NLP • LLMs • RAG • FastAPI • Python
+</p>
+
+<p align="center">
+<strong>Building Intelligent AI Systems from Data to Deployment</strong>
+</p>
+
+<p align="center">
+  <a href="mailto:faresalnam@gmail.com">📩 Email</a>
+  ·
+  <a href="https://linkedin.com/in/faresalnamla-ai-engineer-ml-nlp">LinkedIn</a>
+  ·
+  <a href="https://github.com/faresalnamla">GitHub</a>
+  ·
   <a href="https://kaggle.com/faresalnamla">Kaggle</a>
 </p>
 
 ---
 
-## About Me
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=25&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&height=45&lines=Data+Scientist+%7C+AI+Engineer;Machine+Learning+%7C+NLP+%7C+LLMs+%7C+RAG;Building+Production-Ready+AI+Systems"
+    alt="Typing SVG"
+  />
 
-Machine Learning & NLP Engineer with hands-on experience building predictive models, text classification systems, semantic search pipelines, and retrieval-augmented generation applications using Python.
 
-Skilled in developing data-driven solutions from data collection and preprocessing through model training, evaluation, backend integration, and deployment.
+---
+# 💡 About Me
 
-Experienced with Machine Learning, NLP, FastAPI, SQL, Scikit-learn, XGBoost, and modern LLM workflows, with practical experience delivering end-to-end AI projects on real-world datasets.
+I'm a **Data Scientist** and **AI Engineer** passionate about building intelligent systems that transform data into real-world impact.
+
+My expertise spans **Machine Learning**, **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, and **Retrieval-Augmented Generation (RAG)**, with hands-on experience developing end-to-end AI applications—from data preprocessing and model development to backend APIs and deployment.
+
+I enjoy designing scalable AI solutions that combine data science, semantic search, and modern AI engineering to solve real-world problems.
 
 ---
 
-## Technical Focus
+# 🏗️ What I Build
 
-| Focus Area | What I Work On |
-|---|---|
-| **Machine Learning** | Building predictive models for classification and risk prediction, with feature engineering, cross validation, and performance evaluation using accuracy, precision, recall, F1-score, and ROC-AUC |
-| **NLP & Text Intelligence** | Developing text classification pipelines using preprocessing, tokenization, TF-IDF, embeddings, semantic search, and retrieval-augmented generation workflows |
-| **LLM & RAG Applications** | Designing Python-based RAG systems with data ingestion, vector indexing, retrieval workflows, prompt engineering, and context-aware response generation |
-| **Data Science Workflow** | Working across data cleaning, preprocessing, EDA, statistical analysis, visualization, Power BI reporting, structured data analysis, and model-ready feature preparation |
-| **Backend & Deployment** | Integrating ML models into practical applications using FastAPI, Git/GitHub, Docker basics, and deployment-ready backend workflows |
-| **Core Tools** | Python, Pandas, NumPy, SQL, PostgreSQL, Scikit-learn, XGBoost, FastAPI, Power BI |
+I specialize in designing and developing end-to-end intelligent systems that bridge data, machine learning, and modern AI into real-world applications.
+
+| Domain | What I Build |
+|---------|--------------|
+| 🧠 **Machine Learning** | Predictive models, classification systems, feature engineering, model evaluation, and intelligent decision-support solutions |
+| 🤖 **Generative AI** | LLM-powered applications, Retrieval-Augmented Generation (RAG), AI Agents, prompt engineering, and context-aware workflows |
+| 💬 **Natural Language Processing** | Semantic search, embeddings, text classification, information retrieval, and language understanding systems |
+| ⚡ **AI Backend Engineering** | FastAPI services, REST APIs, scalable backend architectures, AI integrations, and deployment-ready applications |
+| 📊 **Data Science** | Data preprocessing, exploratory analysis, visualization, predictive analytics, feature engineering, and business insights |
+
+---
+# 🛠 Technical Expertise
+
+## 💻 Programming & Development
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql,git,github,docker"/>
+
+</p>
 
 ---
 
-## Featured Projects
+## 🤖 Artificial Intelligence
 
-### 🎓 [Student Leak Radar - AI-Powered Student Risk Prediction Platform](https://github.com/FaresAlnamla/Student-Leak-Radar)
-
-Built an end-to-end machine learning system to identify at-risk students using academic and behavioral indicators.
-
-- Developed predictive models at 25% and 50% course checkpoints.
-- Achieved 86.47% prediction accuracy at the 50% milestone.
-- Designed an interactive dashboard for risk analysis, model insights, and batch prediction workflows.
-- Implemented a FastAPI backend and modern web deployment architecture.
-
-### 🍽️ [RecipaAI - Multi-Agent RAG Assistant](https://github.com/FaresAlnamla/Recipa-RAG-Assistant)
-
-Designed and developed a multi-agent RAG-based assistant, handling system architecture, agent coordination, and retrieval workflows.
-
-- Implemented Python pipelines for data ingestion, vector indexing, and semantic search using modern LLM frameworks.
-- Optimized retrieval and NLP components to generate accurate, context-aware responses from unstructured recipe data.
-
-### 📧 [Email Spam Detection System](https://github.com/FaresAlnamla/Email-Spam-Detection-System)
-
-Built an email spam detection system using Python and TF-IDF for text feature extraction.
-
-- Trained and evaluated Naive Bayes and Logistic Regression models for email classification.
-- Improved model performance through preprocessing, feature tuning, and evaluation using accuracy and F1-score.
-- Converted email text into machine-learning-ready features for classification.
-
-### ❤️ [Heart Disease Prediction ML](https://github.com/FaresAlnamla/heart-disease-prediction-ml)
-
-Built an end-to-end machine learning project to predict heart disease risk using structured clinical data.
-
-- Performed EDA, data cleaning, preprocessing, feature preparation, and classification modeling using Python and Scikit-learn.
-- Evaluated model performance using accuracy, precision, recall, F1-score, and ROC-AUC to compare and select the best-performing model.
-
-### 📰 [Palestine Fake News Detector](https://github.com/FaresAlnamla/Palestine-Fake-News-Detection)
-
-Built a fake news detection system for Palestinian-related news using Python and NLP techniques.
-
-- Implemented a full NLP pipeline including text cleaning, tokenization, and TF-IDF feature extraction.
-- Trained and evaluated Decision Tree and Logistic Regression models using accuracy and F1-score.
-- Improved the classification workflow through preprocessing, feature extraction, and model evaluation.
+- Machine Learning
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- Prompt Engineering
 
 ---
 
-## Skills
+## 💬 Natural Language Processing
 
-**Programming and Data**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-**Data Analysis and Visualization**
-
-![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-0F766E?style=flat-square)
-![Data Preprocessing](https://img.shields.io/badge/Data%20Preprocessing-0E7490?style=flat-square)
-![EDA](https://img.shields.io/badge/EDA-0369A1?style=flat-square)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-2563EB?style=flat-square)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-7C3AED?style=flat-square)
-
-**Machine Learning**
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Predictive Modeling](https://img.shields.io/badge/Predictive%20Modeling-0E7490?style=flat-square)
-![Classification](https://img.shields.io/badge/Classification-0D9488?style=flat-square)
-![Regression](https://img.shields.io/badge/Regression-0369A1?style=flat-square)
-![Clustering](https://img.shields.io/badge/Clustering-4338CA?style=flat-square)
-![XGBoost](https://img.shields.io/badge/XGBoost-137DC5?style=flat-square)
-![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-0E7490?style=flat-square)
-![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-0F766E?style=flat-square)
-![Cross Validation](https://img.shields.io/badge/Cross%20Validation-115E59?style=flat-square)
-![AUC-ROC](https://img.shields.io/badge/AUC--ROC-115E59?style=flat-square)
-
-**Natural Language Processing**
-
-![Text Classification](https://img.shields.io/badge/Text%20Classification-6D28D9?style=flat-square)
-![TF-IDF](https://img.shields.io/badge/TF--IDF-7C3AED?style=flat-square)
-![Embeddings](https://img.shields.io/badge/Embeddings-5B21B6?style=flat-square)
-![Semantic Search](https://img.shields.io/badge/Semantic%20Search-4C1D95?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat-square)
-![LLM Applications](https://img.shields.io/badge/LLM%20Applications-2563EB?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-1D4ED8?style=flat-square)
-
-**Backend and Engineering Tools**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker Basics](https://img.shields.io/badge/Docker%20Basics-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Deployment Basics](https://img.shields.io/badge/Deployment%20Basics-6B7280?style=flat-square)
+- Semantic Search
+- Vector Embeddings
+- Text Classification
+- Information Retrieval
+- Vector Search
 
 ---
 
-## Education
+## 📊 Data Science & Analytics
 
-**Bachelor of Science in Data Science and Artificial Intelligence**  
-University College of Applied Sciences (UCAS), Palestine  
-Sep 2021 - Jul 2026
-
-**High School Diploma, Scientific Stream**  
-Al-Nuseirat Shuhada' Secondary School for Boys, Palestine  
-Sep 2018 - Jun 2021
-
----
-
-## Certifications
-
-- AI Olympics Competition - Certificate of Participation  
-  Gaza Sky Geeks, May 2026 | [View Certificate](https://drive.google.com/file/d/1dFSsTHE-eNHCFMnONXvm5hCxJ5__wKFQ/view)
-
-- Deep Dive LLM Bootcamp Completion Certificate  
-  Zakey.tech, Feb 2026 | [View Certificate](https://verified.sertifier.com/en/verify/10799055094846/?ref=email)
-
-- Freelance Skills Training  
-  DigiWork, Mar 2026 | [View Certificate](https://drive.google.com/file/d/1cTmvPsq9_JGFAa701ZDJG2yLMpi8RKnj/view)
-
-- Python Fundamentals for Beginners  
-  Great Learning, Apr 2023
-
-- Introduction to Data Analytics  
-  Simplilearn, Apr 2022
+- Data Preprocessing
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Predictive Analytics
+- Statistical Analysis
+- Model Evaluation
+- Scikit-learn
+- XGBoost
 
 ---
 
-## Languages
+## ⚙️ Backend Engineering
 
-- Arabic: Native
-- English: Working proficiency
-
----
-
-
-## Contact
-
-Open to AI, data science, machine learning, and NLP opportunities.
-
-- Email: [faresalnam@gmail.com](mailto:faresalnam@gmail.com)
-- LinkedIn: [linkedin.com/in/faresalnamla-ai-engineer-ml-nlp](https://linkedin.com/in/faresalnamla-ai-engineer-ml-nlp)
-- GitHub: [github.com/faresalnamla](https://github.com/faresalnamla)
-- Kaggle: [kaggle.com/faresalnamla](https://kaggle.com/faresalnamla)
+- FastAPI 
+- REST API Development
+- AI Service Integration
+- Backend Architecture
+- PostgreSQL Database Design
+- Model Deployment
+- API Design
 
 ---
 
-<p align="center"><i>Building practical AI systems from data to deployment.</i></p>
+# 🚀 Featured AI Projects
+
+A selection of end-to-end Artificial Intelligence, Machine Learning, NLP, and Generative AI projects demonstrating practical experience in building intelligent systems from data to deployment.
+
+---
+
+## 🎓 Student Leak Radar
+### AI-Powered Student Risk Prediction Platform
+
+**🎯 Key Achievement:** **86.47% Prediction Accuracy**
+
+**Status:** 🟢 Production Ready
+
+An end-to-end machine learning platform for early student risk prediction using academic and behavioral indicators.
+
+**Highlights**
+
+- Early warning prediction at 25% & 50% checkpoints
+- Interactive analytics dashboard
+- Batch prediction via CSV uploads
+- Model explainability & evaluation
+- FastAPI backend architecture
+
+**Technologies**
+
+`Python` `FastAPI` `React` `PostgreSQL` `Scikit-learn` `XGBoost`
+
+🔗 **View Repository →**
+https://github.com/FaresAlnamla/Student-Leak-Radar
+
+---
+
+## 🤖 RecipaAI
+### Multi-Agent RAG Assistant
+
+**🎯 Key Achievement:** **Multi-Agent Retrieval-Augmented Generation Architecture**
+
+**Status:** 🟢 Production Ready
+
+An intelligent assistant that retrieves knowledge from unstructured recipe documents using modern LLM workflows.
+
+**Highlights**
+
+- Multi-Agent Architecture
+- Retrieval-Augmented Generation (RAG)
+- Semantic Search
+- Vector Embeddings
+- Context-aware AI Responses
+
+**Technologies**
+
+`Python` `LLMs` `RAG` `Embeddings` `Semantic Search`
+
+🔗 **View Repository →**
+https://github.com/FaresAlnamla/Recipa-RAG-Assistant
+
+---
+
+## 📰 Palestine Fake News Detector
+### NLP Fake News Classification
+
+**🎯 Key Achievement:** **End-to-End NLP Classification Pipeline**
+
+**Status:** 🟢 Completed
+
+A Natural Language Processing project for detecting misinformation related to Palestinian news.
+
+**Highlights**
+
+- Text preprocessing
+- TF-IDF Feature Extraction
+- Decision Tree
+- Logistic Regression
+- Model Evaluation
+
+**Technologies**
+
+`Python` `NLP` `TF-IDF` `Scikit-learn`
+
+🔗 **View Repository →**
+https://github.com/FaresAlnamla/Palestine-Fake-News-Detection
+
+---
+
+## 📧 Email Spam Detection System
+### Machine Learning Email Classification
+
+**🎯 Key Achievement:** **Optimized TF-IDF Email Classification Pipeline**
+
+**Status:** 🟢 Completed
+
+A machine learning system that classifies emails as spam or legitimate using Natural Language Processing.
+
+**Highlights**
+
+- Email Classification
+- TF-IDF Feature Engineering
+- Naive Bayes
+- Logistic Regression
+- Performance Optimization
+
+**Technologies**
+
+`Python` `Scikit-learn` `TF-IDF` `NLP`
+
+🔗 **View Repository →**
+https://github.com/FaresAlnamla/Email-Spam-Detection-System
+
+---
+
+## ❤️ Heart Disease Prediction
+### Machine Learning Healthcare Prediction
+
+**🎯 Key Achievement:** **Clinical Risk Prediction using Machine Learning**
+
+**Status:** 🟢 Completed
+
+An end-to-end healthcare machine learning project using structured clinical datasets.
+
+**Highlights**
+
+- Exploratory Data Analysis
+- Feature Engineering
+- Classification Models
+- ROC-AUC Evaluation
+- Performance Comparison
+
+**Technologies**
+
+`Python` `Pandas` `Scikit-learn` `Machine Learning`
+
+🔗 **View Repository →**
+https://github.com/FaresAlnamla/heart-disease-prediction-ml
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=faresalnamla&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faresalnamla&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=faresalnamla&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=faresalnamla&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🎯 Currently Learning
+
+- 🤖 Agentic AI Systems
+- 🧠 Production LLM Engineering
+- 🔄 LangGraph & Multi-Agent Workflows
+- 📚 Advanced Retrieval-Augmented Generation (RAG)
+- 🔍 Vector Databases & Semantic Search
+- ☁️ MLOps & AI Deployment
+- ⚡ FastAPI Performance Optimization
+- 🚀 Scalable AI Infrastructure
+
+---
+
+# 🧩 Engineering Philosophy
+
+I believe successful AI is not only about building accurate models.
+
+My goal is to develop complete intelligent systems that combine clean data, machine learning, modern backend engineering, and intuitive user experiences to solve real-world problems.
+
+Every project follows one simple philosophy:
+
+> **Data → Intelligence → API → Product**
+
+---
+
+# 🎓 Education
+
+### Bachelor of Science in Data Science & Artificial Intelligence
+
+**University College of Applied Sciences (UCAS)**  
+Palestine  
+**2021 – 2026**
+
+---
+
+# 🏆 Certifications
+
+| Certification | Provider |
+|---------------|----------|
+| 🧠 Deep Dive LLM Bootcamp | Zakey.tech |
+| 🥇 AI Olympics Competition | Gaza Sky Geeks |
+| 💼 Freelance Skills Training | DigiWork |
+| 🐍 Python Fundamentals | Great Learning |
+| 📊 Introduction to Data Analytics | Simplilearn |
+
+---
+
+# 🌍 Languages
+
+- 🇵🇸 Arabic — Native
+- 🇬🇧 English — Professional Working Proficiency
+
+---
+
+# 🌍 Open to Opportunities
+
+I'm currently open to remote opportunities in:
+
+- Artificial Intelligence Engineering
+- Machine Learning Engineering
+- Data Science
+- NLP Engineering
+- LLM & RAG Development
+- AI Backend Engineering
+
+I'm always interested in collaborating on impactful AI products, research-driven applications, and innovative intelligent systems.
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:faresalnam@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/faresalnamla-ai-engineer-ml-nlp">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/faresalnamla">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://kaggle.com/faresalnamla">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💭 Personal Motto
+
+> *"Transforming data into intelligent systems through Machine Learning, Data Science, and Generative AI."*
+
+---
+
+<p align="center">
+
+⭐ Thank you for visiting my GitHub profile. Feel free to explore my repositories and connect with me to collaborate on impactful AI projects.
+
+</p>
