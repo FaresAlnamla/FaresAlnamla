@@ -28,14 +28,6 @@ Machine Learning • NLP • LLMs • RAG • FastAPI • Python
 
 ---
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=25&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&height=45&lines=Data+Scientist+%7C+AI+Engineer;Machine+Learning+%7C+NLP+%7C+LLMs+%7C+RAG;Building+Production-Ready+AI+Systems"
-    alt="Typing SVG"
-  />
-
-
----
 # 💡 About Me
 
 I'm a **Data Scientist** and **AI Engineer** passionate about building intelligent systems that transform data into real-world impact.
