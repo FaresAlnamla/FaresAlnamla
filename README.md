@@ -170,6 +170,7 @@ Sep 2018 - Jun 2021
 
 ---
 
+
 ## Contact
 
 Open to AI, data science, machine learning, and NLP opportunities.
